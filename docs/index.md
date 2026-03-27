@@ -5,6 +5,9 @@ description: "Return to the main Gale Digital Scholar Lab tutorial. Here are som
 staff:
     - name: Nick Field
       link: https://library.utoronto.ca/staff/nick-field
+maintainer: 
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
 created_date: 2022-05-04
 permalink: "/"  #! Remove this if not the homepage
 ---

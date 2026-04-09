@@ -119,7 +119,3 @@ Gale also provides a variety of training materials related to the *Digital Schol
 
 * [Recorded webinars and tutorials](https://support.gale.com/training/products/dslab) for the *Digital Scholar Lab*
 * [All Gale upcoming and recorded webinars](https://support.gale.com/training/webinars/), including *Gale Primary Sources* spotlights (if you are interested in specific archival collections)
-
- 
-
-Tools: [Digital Scholar Lab](https://mdl.library.utoronto.ca/tools/digital-scholar-lab-0)
